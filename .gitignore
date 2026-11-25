@@ -1,0 +1,18 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local saved chat logs
+saved_chats/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
